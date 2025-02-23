@@ -1,8 +1,5 @@
-# React + Vite
+# Gotta Go Hackathon Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An Learning App built for Dyslexic Persons
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Link for presentations: https://www.canva.com/design/DAGf6rkmin4/sWq4juXM9jE-vM_sDx5Fhw/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0
